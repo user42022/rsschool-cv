@@ -4,7 +4,6 @@
 * **Github [@user42022](https://github.com/user42022/)**
 * **Telegram [@FillipJFry](https://t.me/FillJFry)**
 * **Telephone +7-898-056-75-65**
----
 # About Myself
 I'm amature in CS with a huge wish of having skills, applied to create and improve web servises. I like to spend my free time solving logical tasks.
 # Skills
