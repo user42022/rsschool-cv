@@ -1,6 +1,6 @@
 # Andrey Kizilov
+![Avatar](/src/hidethepainharold.jpg)
 # Contact me
----
 * **Github [@user42022](https://github.com/user42022/)**
 * **Telegram [@FillipJFry](https://t.me/FillJFry)**
 * **Telephone +7-898-056-75-65**
